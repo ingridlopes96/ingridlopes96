@@ -25,5 +25,4 @@
     
 - 🌱 Eterna estudante de linguagens e afins.
 - 😄 Pronomes: ela/dela.
-- ⚡ Amo tecnologia!
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
+- ⚡ Amo tecnologi!
