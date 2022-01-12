@@ -1,4 +1,4 @@
-## Oiii eu sou a Ingrid Lopes!
+## Oi eu sou a Ingrid Lopes!
 <div align="center">
   <a href="https://github.com/ingridlopes96">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridlopes96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
